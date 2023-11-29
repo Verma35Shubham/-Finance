@@ -1,0 +1,19 @@
+.signupWrapper {
+    width: 70%;
+    max-width:  400px;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 1rem;
+    padding: 1rem 1.5rem;
+}
+.title {
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align: center;   
+}
+.login {
+    text-align: center;
+    margin: 0;
+    font-weight: 300;
+    font-size: 0.9rem;
+}

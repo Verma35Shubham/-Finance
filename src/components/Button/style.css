@@ -1,0 +1,30 @@
+.btn {
+    color: #1287FF;
+    text-align: center;
+    margin: 1rem 0rem;
+    font-size: 0.8rem;
+    padding: 0.5rem !important;
+    background-color: #fff;
+    border: 1px solid #1287FF;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: auto !important;
+}
+.btn:hover {
+    background-color: #1287FF;
+    color: #fff;
+    transition: all 0.3s;
+}
+.btn-blue {
+    background-color: #1287FF;
+    color: #fff;
+}
+
+.btn-blue:hover {
+    background-color: #fff !important;
+    color: #1287FF !important;
+    transition: all 0.3s;
+}
