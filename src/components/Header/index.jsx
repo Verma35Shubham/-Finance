@@ -34,7 +34,7 @@ function Header() {
 
   return (
     <div className="navbar">
-      {user ? (<p className="logo">Hi, Welcome back <span>Khushal</span></p>) : (<p className="logo">Financly.</p>)}
+      {user ? (<p className="logo">Hi, Welcome back <span>Shubham</span></p>) : (<p className="logo">Financly.</p>)}
       {user && (
         <div style={{display: "flex", justifyContent: "center", alignItems: "center", gap: "1rem"}}>
           <img src={user.photoURL ? user.photoURL : userImg} style={{borderRadius: "50%", height: "1.6rem", width: "1.7rem"}} /> 
