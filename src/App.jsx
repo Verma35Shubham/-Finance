@@ -5,6 +5,7 @@ import Signup from "./pages/SignUp";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+
 function App() {
   return (
     <>
@@ -18,5 +19,4 @@ function App() {
     </>
   );
 }
-
 export default App;
